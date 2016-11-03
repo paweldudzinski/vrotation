@@ -431,6 +431,7 @@ nav a:hover {
 	width:100px;
 	height:100px;
 	background-color:#501E1E;
+	border-radius: 50px;
 }
 
 
@@ -439,6 +440,7 @@ nav a:hover {
 	width:100px;
 	height:100px;
 	background-color:#076007;
+	border-radius: 50px;
 }
 
 #lp1 {
@@ -503,6 +505,35 @@ nav a:hover {
 	left:35px;
 }
 
+#left-rotate {
+	width:120px;
+	background-color:black;
+	position:absolute;
+	bottom:-70px;
+	color:white;
+	font-weight:bold;
+	font-size:25px;
+	padding:10px;
+}
 
+#right-rotate {
+	width:120px;
+	background-color:black;
+	position:absolute;
+	bottom:-70px;
+	right:0px;
+	color:white;
+	font-weight:bold;
+	font-size:25px;
+	padding:10px;
+}
 
+.rotate:hover {
+	cursor:pointer;
+	color:red !important;
+}
+
+.left-player:hover, .right-player:hover {
+	cursor:pointer;
+}
 

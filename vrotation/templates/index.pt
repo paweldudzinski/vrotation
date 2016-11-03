@@ -38,21 +38,23 @@
                 <article>
                     <div class="pitch">
 						<div class="left-side">
-							<div class="left-player" id="lp1"><span class="numbers" id="lp1nr">?</span></div>
-							<div class="left-player" id="lp2"><span class="numbers" id="lp2nr">?</span></div>
-							<div class="left-player" id="lp3"><span class="numbers" id="lp3nr">?</span></div>
-							<div class="left-player" id="lp4"><span class="numbers" id="lp4nr">?</span></div>
-							<div class="left-player" id="lp5"><span class="numbers" id="lp5nr">?</span></div>
-							<div class="left-player" id="lp6"><span class="numbers" id="lp6nr">?</span></div>
+							<div class="left-player" id="lp1"><span class="numbers" id="lp1nr"></span></div>
+							<div class="left-player" id="lp2"><span class="numbers" id="lp2nr"></span></div>
+							<div class="left-player" id="lp3"><span class="numbers" id="lp3nr"></span></div>
+							<div class="left-player" id="lp4"><span class="numbers" id="lp4nr"></span></div>
+							<div class="left-player" id="lp5"><span class="numbers" id="lp5nr"></span></div>
+							<div class="left-player" id="lp6"><span class="numbers" id="lp6nr"></span></div>
+							<div id="left-rotate" class="rotate">ROTATE</div>
 						</div>
 						<div class="left-side-attack"></div>
 						<div class="right-side">
-							<div class="right-player" id="rp1"><span class="numbers" id="rp1nr">?</span></div>
-							<div class="right-player" id="rp2"><span class="numbers" id="rp2nr">?</span></div>
-							<div class="right-player" id="rp3"><span class="numbers" id="rp3nr">?</span></div>
-							<div class="right-player" id="rp4"><span class="numbers" id="rp4nr">?</span></div>
-							<div class="right-player" id="rp5"><span class="numbers" id="rp5nr">?</span></div>
-							<div class="right-player" id="rp6"><span class="numbers" id="rp6nr">?</span></div>
+							<div class="right-player" id="rp1"><span class="numbers" id="rp1nr"></span></div>
+							<div class="right-player" id="rp2"><span class="numbers" id="rp2nr"></span></div>
+							<div class="right-player" id="rp3"><span class="numbers" id="rp3nr"></span></div>
+							<div class="right-player" id="rp4"><span class="numbers" id="rp4nr"></span></div>
+							<div class="right-player" id="rp5"><span class="numbers" id="rp5nr"></span></div>
+							<div class="right-player" id="rp6"><span class="numbers" id="rp6nr"></span></div>
+							<div id="right-rotate" class="rotate">ROTATE</div>
 						</div>
 						<div class="right-side-attack"></div>
                     </div>
