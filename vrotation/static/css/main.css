@@ -537,3 +537,11 @@ nav a:hover {
 	cursor:pointer;
 }
 
+.cap {
+	width:100%;
+	margin:0px auto;
+	text-align:center;
+	font-weight:10px;
+	padding-bottom:20px;
+}
+

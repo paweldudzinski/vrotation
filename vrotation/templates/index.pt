@@ -6,8 +6,8 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
-        <meta name="description" content="">
+        <title>VRotation - volleyball rotation for referees</title>
+        <meta name="description" content="Application for volleyball referees">
         <meta name="viewport" content="width=device-width, initial-scale=1">	
         <link rel="stylesheet" href="${req.static_url('vrotation:static/css/normalize.min.css')}">
         <link rel="stylesheet" href="${req.static_url('vrotation:static/css/main.css')}">
@@ -34,7 +34,7 @@
 
         <div class="main-container">
             <div class="main wrapper clearfix">
-
+				<div class="cap">Click circle to enter player's number</div>
                 <article>
                     <div class="pitch">
 						<div class="left-side">
